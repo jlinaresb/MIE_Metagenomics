@@ -24,12 +24,17 @@ BiocManager::install("phyloseq")
 ```
 
 ## Authors and affiliations
-Jose Liñares Blanco U+00B9
-Carlos Fernandez Lozano
-Jose A. Seoane
-Guillermo Lopez Campos
+Jose Liñares Blanco <sup>1</sup>
+Carlos Fernandez Lozano <sup>1</sup>
+Jose A. Seoane <sup>2</sup>
+Guillermo Lopez Campos <sup>3</sup>
 
-^1^ Department of Computer Science and Information Technologies, Faculty of Computer Science, University of A Coruña, CITIC, Campus Elviña s/n, A Coruña, 15071, Spain
+<sup>1</sup> *Department of Computer Science and Information Technologies, Faculty of Computer Science, University of A Coruña, CITIC, Campus Elviña s/n, A Coruña, 15071, Spain*
+
+<sup>2</sup>  *Stanford Cancer Institute, Stanford University School of Medicine, Stanford CA, USA*
+
+<sup>3</sup> *Wellcome-Wolfson Institute for Experimental Medicine, Queen´s University Belfast, Belfast, UK* 
+
 
 ## Questions?
 If you have any questions, please feel fre to contact (j.linares@udc.es)
