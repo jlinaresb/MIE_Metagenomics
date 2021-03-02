@@ -24,10 +24,10 @@ BiocManager::install("phyloseq")
 ```
 
 ## Authors and affiliations
-Jose Liñares Blanco <sup>1</sup>
-Carlos Fernandez Lozano <sup>1</sup>
-Jose A. Seoane <sup>2</sup>
-Guillermo Lopez Campos <sup>3</sup>
+**Jose Liñares Blanco**<sup>1</sup>
+**Carlos Fernandez Lozano**<sup>1</sup>
+**Jose A. Seoane**<sup>2</sup>
+**Guillermo Lopez Campos**<sup>3</sup>
 
 <sup>1</sup> *Department of Computer Science and Information Technologies, Faculty of Computer Science, University of A Coruña, CITIC, Campus Elviña s/n, A Coruña, 15071, Spain*
 
