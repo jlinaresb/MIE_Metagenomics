@@ -6,7 +6,7 @@ DOI will be added when available.
 
 
 ## American Gut Project (AGP) Data
-The data used in this work was downloaded from the [AGP](ftp://ftp.microbio.me/AmericanGut/). Raw data of Operational Taxonomic Unit (OTUs) counts from AGP were downloaded. [Phyloseq](https://joey711.github.io/phyloseq/) package was used to manage this data and filtered by feces samples.
+The data used in this work was downloaded from the AGP (ftp://ftp.microbio.me/AmericanGut/). Three files were downloaded: otu table, otu tree and clinical data. [Phyloseq](https://joey711.github.io/phyloseq/) package was used to manage this data and filtered by feces samples.
 
 ## Abstract
 In recent years, microbiota has become an increasingly relevant factor for the understanding and potential treatment of diseases. A major problem has been the variability that exists between different countries of origin when designing a global treatment. For this reason, in this work, based on the data reported by the largest study of microbioma in the world, a classification model has been developed based on Machine Learning (ML) capable of predicting the country of origin (United Kingdom vs United States) according to metagenomic data. The data were used for the training of a glmnet algorithm and a Random Forest algorithm. Both algorithms obtained similar results (0.698 and 0.672 in AUC, respectively). Furthermore, thanks to the application of a multivariate feature selection algorithm, eleven metagenomic genres highly correlated with the country of origin were obtained. An in-depth study of the variables used in each model is shown in the present work.
