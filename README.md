@@ -29,7 +29,7 @@ Carlos Fernandez Lozano
 Jose A. Seoane
 Guillermo Lopez Campos
 
-$$^1$$ Department of Computer Science and Information Technologies, Faculty of Computer Science, University of A Coruña, CITIC, Campus Elviña s/n, A Coruña, 15071, Spain
+$$_^1$$ Department of Computer Science and Information Technologies, Faculty of Computer Science, University of A Coruña, CITIC, Campus Elviña s/n, A Coruña, 15071, Spain
 
 ## Questions?
 If you have any questions, please feel fre to contact (j.linares@udc.es)
