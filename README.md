@@ -24,7 +24,7 @@ BiocManager::install("phyloseq")
 ```
 
 ## Authors and affiliations
-Jose Liñares Blanco <U+00B9>
+Jose Liñares Blanco U+00B9
 Carlos Fernandez Lozano
 Jose A. Seoane
 Guillermo Lopez Campos
