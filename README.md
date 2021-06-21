@@ -2,7 +2,10 @@
 
 This repository includes code based on article published in [MIE](https://efmi.org/2020/12/10/31st-medical-informatics-europe-conference-mie2021-athens-greece/) congress to be held on 29th-31st May, 2021.
 
-DOI will be added when available.
+## Citation
+ Liñares-Blanco J, Fernandez-Lozano C, Seoane JA, Lopez-Campos G. Machine Learning Algorithms Reveals Country-Specific Metagenomic Taxa from American Gut Project Data. Studies in Health Technology and Informatics. 2021 May;281:382-386. DOI: 10.3233/shti210185. 
+
+ DOI: [10.3233/shti210185](https://europepmc.org/article/med/34042770)
 
 
 ## American Gut Project (AGP) Data
@@ -34,7 +37,6 @@ BiocManager::install("phyloseq")
 <sup>2</sup>  *Stanford Cancer Institute, Stanford University School of Medicine, Stanford CA, USA*
 
 <sup>3</sup> *Wellcome-Wolfson Institute for Experimental Medicine, Queen´s University Belfast, Belfast, UK* 
-
 
 ## Questions?
 If you have any questions, please feel fre to contact (j.linares@udc.es)
